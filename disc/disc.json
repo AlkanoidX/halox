@@ -1,0 +1,151 @@
+{
+ "chunk": 8388608,
+ "size": 1860638720,
+ "chunks": 222,
+ "files": [
+  {
+   "name": "ui.map",
+   "offset": 0,
+   "size": 14145536,
+   "sha1": "d43bfaf2aab91576ab07db06f4b1f8198feabccd"
+  },
+  {
+   "name": "a10.map",
+   "offset": 14145536,
+   "size": 173903872,
+   "sha1": "4c913a3531b95a1d7cc57d38d847bd2b06577197"
+  },
+  {
+   "name": "a30.map",
+   "offset": 188049408,
+   "size": 152610816,
+   "sha1": "14ec5083254b55e1a675f3afb8f6ac8ac8fad374"
+  },
+  {
+   "name": "a50.map",
+   "offset": 340660224,
+   "size": 176224256,
+   "sha1": "d53218b69e4b315833e677f2d05543de2e1a895a"
+  },
+  {
+   "name": "b30.map",
+   "offset": 516884480,
+   "size": 162877440,
+   "sha1": "837880040e3de6a80a0b4e633991b66b222ffedf"
+  },
+  {
+   "name": "b40.map",
+   "offset": 679761920,
+   "size": 186873856,
+   "sha1": "e2c27e212654ad288756c27eeee8433f636a8488"
+  },
+  {
+   "name": "c10.map",
+   "offset": 866635776,
+   "size": 166926336,
+   "sha1": "301b6732f051a2efc05e611c6203658f09f5b29e"
+  },
+  {
+   "name": "c20.map",
+   "offset": 1033562112,
+   "size": 76980224,
+   "sha1": "e0afb90931f4b31b14f3aca7a80960dea27e9e78"
+  },
+  {
+   "name": "c40.map",
+   "offset": 1110542336,
+   "size": 166295552,
+   "sha1": "213d329225f28e4d2baf9365c941d7be548c682c"
+  },
+  {
+   "name": "d20.map",
+   "offset": 1276837888,
+   "size": 131012608,
+   "sha1": "db2fc1965becf5c70e1667fbaddbaa55f1028144"
+  },
+  {
+   "name": "d40.map",
+   "offset": 1407850496,
+   "size": 170405888,
+   "sha1": "213d7d2ad3b754de3df94a9d79e30ce1fe4ca5a0"
+  },
+  {
+   "name": "beavercreek.map",
+   "offset": 1578256384,
+   "size": 22122496,
+   "sha1": "e9b4802f53cead902c592bca97ecfe9f7f0c1c99"
+  },
+  {
+   "name": "bloodgulch.map",
+   "offset": 1600378880,
+   "size": 22571008,
+   "sha1": "8420ad9a751e928f41aa4cb9bdc8681940eeb522"
+  },
+  {
+   "name": "boardingaction.map",
+   "offset": 1622949888,
+   "size": 22075392,
+   "sha1": "3ebcaf3eeba1157467da6cdc4466b67f700e82a8"
+  },
+  {
+   "name": "carousel.map",
+   "offset": 1645025280,
+   "size": 20215808,
+   "sha1": "fedc337ba1573e13043f5f80af3be83dce74e338"
+  },
+  {
+   "name": "chillout.map",
+   "offset": 1665241088,
+   "size": 20336640,
+   "sha1": "4f4879666339f6968835e379ee1e883f5ba4919a"
+  },
+  {
+   "name": "damnation.map",
+   "offset": 1685577728,
+   "size": 23756800,
+   "sha1": "128092179a85f1bd1b0ee5c54793308eaebdbf74"
+  },
+  {
+   "name": "hangemhigh.map",
+   "offset": 1709334528,
+   "size": 21338112,
+   "sha1": "16daa26f6027b5fede2715ea36eb5c2cc8b09d43"
+  },
+  {
+   "name": "longest.map",
+   "offset": 1730672640,
+   "size": 20512768,
+   "sha1": "ca03500527eb27a0bd318a0fc854daffb8352505"
+  },
+  {
+   "name": "prisoner.map",
+   "offset": 1751185408,
+   "size": 21323776,
+   "sha1": "17d7d3ece865551141aacb14487a721a48c3d464"
+  },
+  {
+   "name": "putput.map",
+   "offset": 1772509184,
+   "size": 19777536,
+   "sha1": "a8ee18fc0f4838ba50406b32aedb4e3001d85b7d"
+  },
+  {
+   "name": "ratrace.map",
+   "offset": 1792286720,
+   "size": 23840768,
+   "sha1": "392cc0a8469c27e8a94555e6327c41cbe7b24efb"
+  },
+  {
+   "name": "sidewinder.map",
+   "offset": 1816127488,
+   "size": 24823808,
+   "sha1": "95708a45fcb4cbd8f20fcdb8545820b4326a0f29"
+  },
+  {
+   "name": "wizard.map",
+   "offset": 1840951296,
+   "size": 19687424,
+   "sha1": "021a638439aa2d1d1ae60fdfe78730b8c585fc76"
+  }
+ ]
+}
